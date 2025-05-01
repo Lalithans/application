@@ -1,0 +1,7 @@
+env
+CopyEdit
+PORT=3000
+DB_HOST=mydb.cdefghijklmnop.us-east-1.rds.amazonaws.com
+DB_USER=admin
+DB_PASS=1234
+DB_NAME=mydatabase
